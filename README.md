@@ -66,3 +66,10 @@ weather-trend-forecasting/
 
 ## 📦 Requirements
 See `requirements.txt`
+
+## Links for notebooks
+Note 1 : https://colab.research.google.com/drive/18Uantj9OMq8Idg3p1vnAVKftqBZG0XI3?usp=sharing
+Note 2 : https://colab.research.google.com/drive/18Kk0YjTyHqQEXD6LIrtTdpon7bvmwplA?usp=sharing
+Note 3 : https://colab.research.google.com/drive/18zxHg53XIL84O-dgtjwe2xq3aMF8e-Vg?usp=sharing
+Note 4 : https://colab.research.google.com/drive/1MHeEoy3prMuuVQIxPTAqyiMU-R_lhrXX?usp=sharing
+Note 5 : https://colab.research.google.com/drive/1JKnct8m9bGw_KNx2gfCvcQsUSfHPPatY?usp=sharing
